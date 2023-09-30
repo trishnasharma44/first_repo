@@ -1,3 +1,3 @@
 # first_repo
-This is my first Git reposit
+This is my first Git repository.
 Author-Trishna Devi
